@@ -1,0 +1,4 @@
+# pyzed is NOT on pip -- install it with the ZED SDK's get_python_api.py (README step 1)
+numpy
+opencv-python
+pillow
